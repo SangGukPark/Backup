@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#test1
 cmdCnt=$#
 temp=$1
 path="/etc/default/grub"
